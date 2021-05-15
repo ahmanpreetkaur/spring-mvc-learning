@@ -5,6 +5,7 @@
 </head>
 <body>
 	<p>Hello World of spring!</p>
-	<p>Student name: ${param.studentName} </p>
+	<p>Student name: ${param.studentName}</p>
+	<p>The message: ${message} </p>
 </body>
 </html>

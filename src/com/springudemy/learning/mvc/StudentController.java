@@ -23,5 +23,4 @@ public class StudentController {
 	public String processForm(@ModelAttribute("student") Student student) {
 		return "student-confirmation";
 	}
-	
 }

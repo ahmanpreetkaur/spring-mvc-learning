@@ -3,6 +3,6 @@
 	<body>
 		<h2> Spring MVC Demo - Home page </h2>
 		
-		<a href="showForm">Hello world form</a>
+		<a href="hello/showForm">Hello world form</a>
 	</body>
 </html>
